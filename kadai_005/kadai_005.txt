@@ -1,5 +1,3 @@
-Hello,world！
-こんにちは、世界！
 mkdir git_challenge
 cd git_challenge
 git init
@@ -10,4 +8,3 @@ echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m "日本語訳を追記"
 git log --oneline
-https://github.com/shuna421/jiriki_de_tukutta.git
