@@ -1,5 +1,5 @@
 Hello,world！
-こんにちは、世界！
+こんばんは、世界！
 mkdir git_challenge
 cd git_challenge
 git init
